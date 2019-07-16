@@ -1,3 +1,4 @@
+package com.practice;
 public class RunLengthEncoding
 {
 	public static void main(String[] args) {
