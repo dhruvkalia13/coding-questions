@@ -1,7 +1,5 @@
 package com.practice;
 
-import com.practice.LinkedList1.Node;
-
 public class LinkedList2 {
 
 //	MiddleElementInOnePass
