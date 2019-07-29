@@ -2,7 +2,7 @@ package com.practice;
 
 public class LinkedList1 {
 
-	//MiddleElementInOnePass
+	//MiddleElement
 	Node head;
 	static class Node {
 		int data;
